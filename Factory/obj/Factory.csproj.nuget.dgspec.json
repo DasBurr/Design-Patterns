@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\Design-Patterns\\Factory\\Factory.csproj": {}
+    "D:\\git\\Design-Patterns\\Factory\\Factory.csproj": {}
   },
   "projects": {
-    "C:\\git\\Design-Patterns\\Factory\\Factory.csproj": {
+    "D:\\git\\Design-Patterns\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\Design-Patterns\\Factory\\Factory.csproj",
+        "projectUniqueName": "D:\\git\\Design-Patterns\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "C:\\git\\Design-Patterns\\Factory\\Factory.csproj",
+        "projectPath": "D:\\git\\Design-Patterns\\Factory\\Factory.csproj",
         "packagesPath": "C:\\Users\\kmulg\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\Design-Patterns\\Factory\\obj\\",
+        "outputPath": "D:\\git\\Design-Patterns\\Factory\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\kmulg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -51,10 +46,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
